@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Avani14
+- 👀 I’m interested in ReactJS, DevOps, Java   
+- 🌱 I’m currently learning Java  
+- 💞️ I’m looking to collaborate on ReactJS 
+- 📫 How to reach me ... trivediavani14@gmail.com
